@@ -32,4 +32,4 @@ En una cafetería moderna, es común que los clientes realicen pedidos que requi
     - 4.1. Usa `setTimeout` para simular el tiempo de preparación de los pedidos.
     - 4.2. Implementa **Promises** para manejar la finalización de los pedidos.
     - 4.3. Utiliza `async/await` para actualizar el estado en tiempo real.
-Puedes consultar un extracto de código para comenzar con la solución, se incluye un ejmplo de lo que se espera en la siguiente url: https://gist.github.com/heladio-devf-mx/2c120188609907595b51ed30d5f3f2d0
+Puedes consultar un extracto de código para comenzar con la solución, se incluye un ejemplo de lo que se espera en la siguiente url: https://gist.github.com/heladio-devf-mx/2c120188609907595b51ed30d5f3f2d0
